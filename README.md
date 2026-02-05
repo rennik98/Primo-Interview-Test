@@ -19,7 +19,7 @@ Clone the repository and install dependencies (TypeScript, Jest, ts-jest):
 
 
 git clone https://github.com/rennik98/Primo-Interview-Test.git
-cd Primo-Interview-Test
+cd .\Primo-Interview-Test\merge-sorted-arrays\
 npm install
 
 ```
